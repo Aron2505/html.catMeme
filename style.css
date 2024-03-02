@@ -1,0 +1,15 @@
+html {
+    background: #EED3D9;
+    text-align: center;
+}
+img {
+    border: 5px solid #F5E8DD;
+    margin-top: 35px;
+}
+h1 {
+    font-size: 2rem;
+    font-family: "Roboto Slab", serif;
+}
+p {
+    font-family: "Montserrat", sans-serif;
+}
